@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kollu</h1>
-<h3 align="center">Forward Thinking Full Stack Developer from India. Skilled in MERN stack.</h3>
+<h3 align="center">Passionate Full Stack Developer from India. Skilled in MERN stack. Loves to design and develop beautiful UI Apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkollu-code&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkollu-code" /> </p>
 

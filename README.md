@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Alien Invasion](https://github.com/naveenkollu-code/alien_invasion)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Open source Contributions**
 

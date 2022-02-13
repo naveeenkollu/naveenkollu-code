@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kollu</h1>
-<h3 align="center">Passionate Full Stack Developer from India.MERN stack Developer. Loves to design and develop beautiful UI Apps.</h3>
+<h3 align="center">Passionate about evolving technologies. Loves to design and develop beautiful UI Apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkollu-code&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkollu-code" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/mister_nk17" target="blank"><img src="https://img.shields.io/twitter/follow/mister_nk17?logo=twitter&style=for-the-badge" alt="mister_nk17" /></a> </p>
 
-- 🔭 I’m currently working on [Alien Invasion](https://github.com/naveenkollu-code/alien_invasion)
+- 🔭 I’m currently working on [Hotel Management System](https://github.com/naveenkollu-code/alien_invasion)
 
 - 🌱 I’m currently learning **Backend Development**
 
 - 🤝 I’m looking for help with **Open source Contributions**
 
-- 💬 Ask me about **Javascript, Python, React**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **naveenkollu10@gmail.com**
 
-- ⚡ Fun fact **When Iam not coding I love cooking Indian cuisine.**
+- ⚡ Fun fact **When Iam not coding I love cooking Indian cuisine and read research articles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
